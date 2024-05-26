@@ -32,8 +32,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "e8e55726cf0e0f4e2b6a77fddb57ff93
 "assets/images/30rojo2.png": "5f41df4c8e0117ce77deb7e47637ba2b",
 "assets/images/30verde1.png": "2008ac8217cdf4a6a33226e946b86c86",
 "assets/images/30verde2.png": "35294f5568a62e883fc33804814acceb",
-"assets/images/boton1.png": "a97f75d71b9431048df9dd063166ca78",
-"assets/images/boton2.png": "ed1cda397316bc7e03f4c9ebe21f5f88",
+"assets/images/boton1.png": "756f3dc52b344feb922253b0ced02569",
+"assets/images/boton2.png": "c027da2c7fb78eee51e7c89f0939864e",
 "assets/images/epicboton.png": "4f15923057848821bb713645c137cbc1",
 "assets/images/epicx.png": "72cc4f063d07e3b61aff15d52dff51f9",
 "assets/images/fondo.png": "1103d2c8fc32c878922644ef0626f47f",
@@ -59,9 +59,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "e8e55726cf0e0f4e2b6a77fddb57ff93
 "icons/Icon-512.png": "05a1a436005e9bfb0b819674bbdba07f",
 "icons/Icon-maskable-192.png": "05a1a436005e9bfb0b819674bbdba07f",
 "icons/Icon-maskable-512%20.png": "05a1a436005e9bfb0b819674bbdba07f",
-"index.html": "46dbd41f8ed7547495562c318636faa7",
-"/": "46dbd41f8ed7547495562c318636faa7",
-"main.dart.js": "fa0f19f3f7a7a607d0d1d379c3b5d875",
+"index.html": "78c9029de1ac0f02f44b83f3ec2da9b9",
+"/": "78c9029de1ac0f02f44b83f3ec2da9b9",
+"main.dart.js": "cd1342a8de4086cd53a8f2c9b2a72c10",
 "manifest.json": "a48e97b011b172072334c76d24d2a283",
 "version.json": "cdf9049cc2397197536bb0b04e0ebe21"};
 // The application shell files that are downloaded before a service worker can
